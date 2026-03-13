@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/?placeId=109983668079237&gameInstanceId=Job_id",
-      "permanent": false
-    }
-  ]
-}
